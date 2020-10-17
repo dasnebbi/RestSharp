@@ -49,3 +49,6 @@ RestSharp.IntegrationTests/config.json
 *.ncrunchsolution
 /.vs/RestSharp/v15/Server/sqlite3
 /.vs/
+/node_modules/
+/out/
+/docs/.vuepress/dist/
